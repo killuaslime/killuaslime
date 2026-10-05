@@ -1,58 +1,39 @@
 # 🐸 killuaslime
 
-> `developer.exe has stopped responding`
-
-I'm a self-taught developer interested in **game development,
-software development and 3D**.
-
-Currently building things, breaking things and occasionally
-figuring out why they work.
+> probably writing code instead of sleeping
 
 ---
 
-## 🐸 Current Projects
+### currently working on
 
-### 📅 yourCalendar
+**yourCalendar**  
+`Python` `FastAPI` `PostgreSQL` `JavaScript`
 
-Telegram WebApp built with:
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JavaScript`
-
-> A personal project combining web development, backend
-> architecture and AI.
-
----
-
-### 🎮 TestGame
-
-Experimental C++ project.
-
+**TestGame**  
 `C++` `SFML`
 
-> Learning game development by actually building a game.
+---
+
+### stack
+
+`Python` `C++` `JavaScript`  
+`FastAPI` `PostgreSQL` `SQLAlchemy` `SFML`
 
 ---
 
-## 🛠️ Toolbox
-
 ```text
-Languages
-├── Python
-├── C++
-└── JavaScript
+$ whoami
 
-Backend
-├── FastAPI
-├── PostgreSQL
-└── SQLAlchemy
+killuaslime
 
-Game / 3D
-├── C++
-├── SFML
-├── Blender
-└── Roblox
+$ status
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
+██████████████████░░  working on it...
+
+$ coffee
+
+████████████████████  100%
+
+$ bugs
+
+████████████████████  ∞
