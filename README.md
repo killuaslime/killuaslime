@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🐸 killuaslime
 
-<!--
-**killuaslime/killuaslime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `developer.exe has stopped responding`
 
-Here are some ideas to get you started:
+I'm a self-taught developer interested in **game development,
+software development and 3D**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building things, breaking things and occasionally
+figuring out why they work.
+
+---
+
+## 🐸 Current Projects
+
+### 📅 yourCalendar
+
+Telegram WebApp built with:
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JavaScript`
+
+> A personal project combining web development, backend
+> architecture and AI.
+
+---
+
+### 🎮 TestGame
+
+Experimental C++ project.
+
+`C++` `SFML`
+
+> Learning game development by actually building a game.
+
+---
+
+## 🛠️ Toolbox
+
+```text
+Languages
+├── Python
+├── C++
+└── JavaScript
+
+Backend
+├── FastAPI
+├── PostgreSQL
+└── SQLAlchemy
+
+Game / 3D
+├── C++
+├── SFML
+├── Blender
+└── Roblox
+
+Tools
+├── Git
+├── GitHub
+└── VS Code
